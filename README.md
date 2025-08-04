@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.ibb.co/zV94bMS3/Developer.gif)"  />
+<img align="right" height="150" src="https://i.ibb.co/zV94bMS3/Developer.gif"  />
 
 ###
 
