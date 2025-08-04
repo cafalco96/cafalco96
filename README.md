@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/cafalco96/cafalco96/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<img src="https://github.com/cafalco96/cafalco96/raw/main/output/github-contribution-grid-snake.svg" alt="snake gif" />
 
 ###
